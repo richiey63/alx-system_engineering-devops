@@ -1,2 +1,2 @@
 #!/bin/bash
-cp .html [[:upper :]]* /tmp/u
+mv .html [[:upper :]]* /tmp/u
